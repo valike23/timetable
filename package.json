@@ -1,0 +1,23 @@
+{
+  "name": "invigilator-timetable-app",
+  "version": "1.0.0",
+  "description": "A  automatic timetable generating app for Departments in universities",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/valike23/timetable",
+  "keywords": [
+    "Timetable",
+    "invigilation",
+    "Lecturers",
+    "University",
+    "Department"
+  ],
+  "author": "Valentine Emmanuel",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^2.0.0",
+    "electron-packager": "^12.1.1"
+  }
+}
